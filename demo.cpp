@@ -26,4 +26,14 @@ for (auto it = map.rbegin(); it != map.rend(); it++) {
 	auto end = map.rbegin();
 */
 
-//2.map排序
+/**set
+set的插入：set.insert(n);
+set的包含元素：set.count(tmp)
+set的删除元素：set.rease(n);
+*/
+
+/**最后一个空格问题
+	if(it!=(--nlist.rend())){
+			cout<<" ";
+		}
+*/
