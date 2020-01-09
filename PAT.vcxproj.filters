@@ -16,6 +16,9 @@
     <Filter Include="源文件\Basic">
       <UniqueIdentifier>{d669599d-099d-47ac-a785-8482620a35bf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\demo">
+      <UniqueIdentifier>{7b770ca1-a627-47c8-abdb-c6699949f97e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PAT.cpp">
@@ -25,6 +28,42 @@
       <Filter>源文件\Basic</Filter>
     </ClCompile>
     <ClCompile Include="1002.cpp">
+      <Filter>源文件\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="1003.cpp">
+      <Filter>源文件\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="demo.cpp">
+      <Filter>源文件\demo</Filter>
+    </ClCompile>
+    <ClCompile Include="1004.cpp">
+      <Filter>源文件\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="1005.cpp">
+      <Filter>源文件\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="1006.cpp">
+      <Filter>源文件\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="1007.cpp">
+      <Filter>源文件\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="1008.cpp">
+      <Filter>源文件\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="1009.cpp">
+      <Filter>源文件\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="1010.cpp">
+      <Filter>源文件\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="1011.cpp">
+      <Filter>源文件\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="1012.cpp">
+      <Filter>源文件\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="1013.cpp">
       <Filter>源文件\Basic</Filter>
     </ClCompile>
   </ItemGroup>
