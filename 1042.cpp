@@ -1,6 +1,9 @@
 /**
-转小写的方法：
-转大写的方法
+转小写的方法：tolower
+转大写的方法：toupper
+源码：
+  #define _tolower(c) ((c) - 'A' + 'a')
+  #define _toupper(c) ((c) - 'a' + 'A')
 
 */
 #include <iostream>
